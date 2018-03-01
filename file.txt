@@ -1,1 +1,2 @@
 These are words. This is a sentence. This is a text file.
+Now I am in the Linux text editor, editing the text. 
